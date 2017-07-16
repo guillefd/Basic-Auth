@@ -32,3 +32,12 @@ $args = array(
 
 [oauth]: https://github.com/WP-API/OAuth1
 [RFC2617]: https://tools.ietf.org/html/rfc2617
+
+
+### CHANGELOG
+
+*2017-07-15*
+1. Added option to read data form $_REQUEST["Authorization"]
+2. Added option to log values to file, for easy debugging. The log file is written in the plugin folder.
+
+
